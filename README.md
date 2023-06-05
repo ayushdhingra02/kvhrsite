@@ -1,6 +1,6 @@
-# kvhrsite
-# to start this project first intall the dependencies using   
+
+# install the dependencies using   
 npm install
 
-# and to start it
+# and to start
 npm start
